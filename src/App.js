@@ -1,7 +1,7 @@
 import React, {useState} from "react";
-import Game from "./Game";
+import Game from "./components/Game";
 
-import './App.css';
+import './components/App.css';
 
 
 const StarMatch = () => {
