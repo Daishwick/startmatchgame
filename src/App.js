@@ -159,4 +159,4 @@ const utils = {
 };
 
 // ReactDOM.render(<StarMatch/>, mountNode);
-export default Game;
+export default StarMatch;
